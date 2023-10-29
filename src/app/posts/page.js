@@ -9,6 +9,7 @@ export const metadata = {
         <h1 className="inline-block text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight dark:text-slate-200">
             Latest posts
         </h1>
+        <p></p>
     </div>
     )
   }

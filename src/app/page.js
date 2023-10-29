@@ -4,6 +4,10 @@ export const metadata = {
 } 
 export default function Page() {
   return (
-    <h1>Hannington Digital</h1>
+    <div>
+    <h1 className="headingOne">Hannington Digital</h1>
+    <hr className="mt-20 mb-20"></hr>
+    <h3 className="headingTwo">Links</h3>
+    </div>
   )
 }
