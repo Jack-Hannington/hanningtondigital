@@ -5,11 +5,11 @@ export const metadata = {
 
   export default function Posts(){
     return (
-    <div className="flex">
+    <div className="flex text-center justify-center">
         <h1 className="inline-block text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight dark:text-slate-200">
             Latest posts
         </h1>
-        <p></p>
+ 
     </div>
     )
   }
